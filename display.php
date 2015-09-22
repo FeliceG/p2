@@ -2,7 +2,7 @@
 <html>
 
 <head>
-
+<meta charset="UTF=8">
 <link rel='stylesheet' type='text/css' href='style.php' />
 
 <?php require 'logic3.php'; ?>

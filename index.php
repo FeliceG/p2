@@ -2,6 +2,7 @@
 <html>
 
 <head>
+<meta charset="UTF-8">
 <title>Password Generator</title>
 <link rel='stylesheet' type='text/css' href='style.php' />
 </head>
