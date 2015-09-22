@@ -42,7 +42,7 @@
 		}
 	    }
 
-      echo "<br><br><br><a href=\"/p2/index.php\" >Need to generate another password?</a>";
+      echo "<br><br><br><a href=\"/index.php\" >Need to generate another password?</a>";
         }
 ?>
 
