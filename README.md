@@ -3,11 +3,11 @@
 ## Live URL
 <http://p2.felicenapolitano.me>
 
-##Descritpion
-The website will generate a password of a selected number of words up to 8 randomly selected words. The user can select additional characters to add to the password such as @, #, $, %, &, *, +.
+##Description
+The website generates a password of a selected number of words up to 11 randomly selected items, which can be a combination of words, numbers, and symbols. In addition, the user can select to see the password in words and images for those who are visually-oriented. 
 
 ##Demo
-No demo required for this first project.
+screencast.com/t/Na6eBcq9dCX
 
 ##Details for teaching team
 No login required.
